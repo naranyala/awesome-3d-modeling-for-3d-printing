@@ -164,6 +164,7 @@
 | Tool | Input Types | Output Formats | Pricing | Platform | Description |
 |------|-------------|----------------|---------|----------|-------------|
 | [**Meshy**](https://www.meshy.ai/) | Text prompt, single image | GLB, FBX, OBJ, STL | Free (credits/day); Paid: ~$24/mo | Web / API | Text-to-3D and image-to-3D; PBR texture generation; topology controls; generation in < 2 min |
+| [**Luphra**](https://www.luphra.com/) | Text prompt, sketches | Editable 3D, STL (printables) | Free / paid | Web | Prompt-to-matter — AI that turns text/sketches into editable 3D and manufactured physical products (starting with 3D printables) |
 | [**Tripo AI**](https://www.tripo3d.ai/) | Text prompt, single image | GLB, FBX, STL, OBJ | Free (600 credits/mo); Paid: ~$19/mo | Web / API | Text/image to 3D in ~8 seconds; 2-min refinement mode; 100+ template categories |
 | [**3D AI Studio**](https://www.3daistudio.com/) | Text prompt, single/multi-view image | GLB, OBJ, FBX, STL | Free (limited); Paid: ~$29/mo | Web | Image-to-3D with multi-view support; texture refinement; API available |
 | [**MakerWorld Image to 3D**](https://makerworld.com/) | Single image (PNG/JPEG) | 3MF (Bambu-ready) | Free (10 exports/mo via Bambu account) | Web (MakerLab) | Powered by Tripo AI; integrated with Bambu Studio; basic editing (rotation, scale, base) |
