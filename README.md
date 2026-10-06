@@ -346,6 +346,7 @@
 | Tool | Type | Platforms | Pricing | Description |
 |------|------|-----------|---------|-------------|
 | [**Polyvia3D**](https://polyvia3d.com/) | File conversion/repair | Browser | Free (local processing) | Browser-based via WebAssembly; repair, convert, merge; no server upload |
+| [**CADProps**](https://www.cadprops.com/tools/step-to-stl/) | CAD-to-mesh conversion | Browser | Pricing not stated; sign-in required | Converts STEP/STP models to STL meshes for slicer import; files are uploaded for server processing |
 | [**3D Box Generator**](https://www.thingiverse.com/apps/box-generator) | Parametric generator | Browser | Free | Generates parametric box STL files; customizable parameters |
 | [**gcode.ws**](https://gcode.ws/) | G-code viewer | Browser | Free | Web-based G-code visualization; layer-by-layer preview; travel moves, extrusion analysis |
 | [**Filameter**](https://filameter.io/) | Cost calculator | Browser | Free | Estimates filament usage and cost from STL; basic slicer simulation |
