@@ -338,6 +338,7 @@
 | [**Yeggi**](https://www.yeggi.com/) | 10M+ models across 150+ sites | 3D model search engine; filters by free/paid, category | [Website](https://www.yeggi.com/) |
 | [**STLFinder**](https://www.stlfinder.com/) | Multiple repositories | Aggregates STL files; category and price filters | [Website](https://www.stlfinder.com/) |
 | [**Thangs**](https://thangs.com/) | Proprietary index | Geometric matching; visual search; personal library sync | [Website](https://thangs.com/) |
+| [**PrintWhat**](https://printwhat.app/) | 39 sources (mixed access) | Cross-site model discovery with original-source links; routes near-fit or missing models to human search, modification, or custom design | [Website](https://printwhat.app/) |
 
 ---
 
