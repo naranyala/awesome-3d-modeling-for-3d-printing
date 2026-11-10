@@ -488,6 +488,7 @@
 | **3D Printing Specialization (Coursera)** | University course (5 courses) | 3D printing basics, software, hardware, applications | Free (audit); $49/mo (certificate) | University of Illinois (Coursera) | [Website](https://www.coursera.org/specializations/3dprinting) |
 | **Blender Guru Donut Tutorial** | Video tutorial series | Blender basics, modeling, sculpting, rendering | Free | Blender Guru (YouTube) | [YouTube](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) |
 | **Product Design Online (Fusion 360)** | Video tutorial series | Fusion 360 for product design, 3D modeling | Free | Product Design Online (YouTube) | [YouTube](https://www.youtube.com/playlist?list=PL0G1-Eg1YV59T0KvL8Fz7dU4jQ6yRu5tK) |
+| **SolidCraft CAD** | Written guides | Tutorials and guides for SolidCraft, the open-source parametric 3D CAD app written in Rust | Free | SolidCraft CAD | [Website](https://solidcraftcad.com/) |
 | **SolidProfessor** | Subscription tutorials | SolidWorks, CAD, 3D printing | $395/yr | SolidProfessor | [Website](https://www.solidprofessor.com/) |
 | **Udemy 3D Printing Courses** | Video courses (various) | Blender, Fusion 360, 3D printing, Cura | $15–$200 (sales frequent) | Udemy | [Website](https://www.udemy.com/topic/3d-printing/) |
 | **Teaching Tech Klipper Guide** | Written/video guide | Klipper installation, configuration, tuning | Free (donations) | Teaching Tech | [Website](https://teachingtechyt.github.io/klipper.html) |
