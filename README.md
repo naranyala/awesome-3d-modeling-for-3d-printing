@@ -156,6 +156,8 @@
 | [**Formware STL Repair**](https://formware.co/) | Freeware | Browser | Free | STL | Web-based upload and repair; identifies unclosed shells and non-manifold edges |
 | [**Admesh**](https://github.com/admesh/admesh) | GPL-2.0 | Linux / Mac (CLI) | Free | STL | Command-line STL analyzer and repair; finds and fixes bad facets, degenerate faces |
 | [**JustFixSTL**](https://www.justfixstl.com/) | Freeware | Browser | Free | STL, OBJ, PLY | Online mesh repair; fixes non-manifold edges, normals, holes; no upload required |
+| [**STL Peak**](https://stlpeak.com/) | Free web tool (source not published) | Browser | Free, no account | STL (ASCII/binary); separate 3MF/OBJ converters | Local STL checking, simple hole closing, duplicate-face removal and winding correction; triangle reduction with before/after preview. Complex non-manifold geometry is reported for manual repair |
+
 
 ---
 
@@ -577,3 +579,4 @@ This work is dedicated to the public domain under the Creative Commons Zero 1.0 
 <div align="center">
   <strong>3D Modeling for 3D Printing — Resources & Tools</strong>
 </div>
+
