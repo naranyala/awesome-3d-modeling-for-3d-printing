@@ -167,6 +167,7 @@
 | [**Tripo AI**](https://www.tripo3d.ai/) | Text prompt, single image | GLB, FBX, STL, OBJ | Free (600 credits/mo); Paid: ~$19/mo | Web / API | Text/image to 3D in ~8 seconds; 2-min refinement mode; 100+ template categories |
 | [**3D AI Studio**](https://www.3daistudio.com/) | Text prompt, single/multi-view image | GLB, OBJ, FBX, STL | Free (limited); Paid: ~$29/mo | Web | Image-to-3D with multi-view support; texture refinement; API available |
 | [**MakerWorld Image to 3D**](https://makerworld.com/) | Single image (PNG/JPEG) | 3MF (Bambu-ready) | Free (10 exports/mo via Bambu account) | Web (MakerLab) | Powered by Tripo AI; integrated with Bambu Studio; basic editing (rotation, scale, base) |
+| [**Ai3DSculpt**](https://ai3dsculpt.com/png-to-3d) | Single image, PNG, portrait | Watertight STL, GLB, OBJ, USDZ | Free (20 signup credits = 1 free Fast Draft, no credit card); Paid packs | Web | 60-second browser-based photo/PNG to watertight STL generator for 3D printing and portrait busts without Blender |
 | [**Sloyd AI**](https://www.sloyd.ai/) | Text prompt, parameters | GLB, FBX, OBJ, STL | Free (limited); Paid: ~$9.99/mo | Web / API | Parametric hard-surface generation; clean topology; adjustable UV maps; game-ready assets |
 | [**Luma AI Genie**](https://lumalabs.ai/genie) | Text prompt | GLB, OBJ | Free; Paid tiers | Web / iOS / Discord | Text-to-3D via Discord bot or web; high-fidelity results; NeRF and Gaussian Splatting support |
 | [**CSM AI**](https://csm.ai/) | Single image, video | GLB, OBJ, FBX | Free (limited); Paid: ~$99/mo | Web / API | Image/video to 3D; cube-to-3D pipeline; targets game/AR asset creation |
@@ -346,6 +347,7 @@
 | Tool | Type | Platforms | Pricing | Description |
 |------|------|-----------|---------|-------------|
 | [**Polyvia3D**](https://polyvia3d.com/) | File conversion/repair | Browser | Free (local processing) | Browser-based via WebAssembly; repair, convert, merge; no server upload |
+| [**TripoSR AI 3D File Converter**](https://www.triposrai.com/tools/convert/ply-to-stl/) | File conversion (GLB↔OBJ, PLY→STL, OBJ→STL) | Browser | Free (no sign-up, local processing) | Browser-based 3D format conversion processed locally with zero server uploads |
 | [**3D Box Generator**](https://www.thingiverse.com/apps/box-generator) | Parametric generator | Browser | Free | Generates parametric box STL files; customizable parameters |
 | [**gcode.ws**](https://gcode.ws/) | G-code viewer | Browser | Free | Web-based G-code visualization; layer-by-layer preview; travel moves, extrusion analysis |
 | [**Filameter**](https://filameter.io/) | Cost calculator | Browser | Free | Estimates filament usage and cost from STL; basic slicer simulation |
